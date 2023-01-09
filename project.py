@@ -8,6 +8,7 @@
 #Note: Dice contains face value’s (1 to 6)
 #Hint: Make use of random.randint() functionimport random
 
+import random
 print("Welcome to DICE NUMBER PREDICTION GAME!")
 
 i = ""
